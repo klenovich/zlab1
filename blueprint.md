@@ -1,4 +1,4 @@
-#ZLab
+# ZLab
 
 ZLab (wizzlab) is a no-code environment that makes it simple to run automated task chains in a home enviornment. ZLab will initially run locally using node, but eventually will have allow a local bridge/server to run and be controlled by a cloud env.
 
