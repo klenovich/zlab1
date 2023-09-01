@@ -24,5 +24,5 @@
 - spotify api integration that changes conencted light colors to music and generates a graphics feed
 
 **Inspiration/similar:**
-respell.ai (nocode env layout)
-IFTTT (similar task chain concept)
+- respell.ai (nocode env layout)
+- IFTTT (similar task chain concept)
